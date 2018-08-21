@@ -16,6 +16,7 @@ public class _2490 {
                arr[2] = Integer.valueOf(str2[2]);
                arr[3] = Integer.valueOf(str2[3]);
            }
+
            Arrays.sort(arr);
            int x = arr[0];
            int y = arr[1];
@@ -32,5 +33,6 @@ public class _2490 {
            if(x == 1 && y == 1 && z == 1 && c == 1)
                System.out.println("E");
         }
+        
     }
 }
