@@ -13,10 +13,7 @@ public class _4504 {
         while(true) {
             int x = Integer.valueOf(in.readLine());
 
-            if(x < 1|| x > 10000)
-                System.exit(0);
-
-            if(x == 0)
+            if(x < 1 || x > 10000)
                 break;
 
             if(x%n == 0)
