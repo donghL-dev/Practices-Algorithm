@@ -14,7 +14,6 @@ public class _5704 {
 
             if(str.length() <= 200) {
                 char a = 'a';
-                int j = 0;
                 int answer = 0;
                 int[] result = new int[26];
 
@@ -38,7 +37,6 @@ public class _5704 {
                     System.out.println("N");
 
             }
-
         }
     }
 }
