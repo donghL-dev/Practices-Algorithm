@@ -3,7 +3,7 @@ package baekjoon;
 import java.io.*;
 
 /***
-  Probelm Number : 3004
+  Problem Number : 3004
   Problem Link : https://www.acmicpc.net/problem/3004
  ***/
 public class _3004 {

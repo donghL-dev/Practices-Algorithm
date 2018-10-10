@@ -2,6 +2,11 @@ package baekjoon;
 
 import java.io.*;
 
+/***
+ Problem Number : 10769
+ Problem Link : https://www.acmicpc.net/problem/10769
+ ***/
+
 public class _10769 {
     public static void main(String[] args) throws IOException {
         BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
