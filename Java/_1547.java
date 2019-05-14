@@ -1,7 +1,12 @@
 package baekjoon;
 
 import java.io.*;
-// Problem :
+
+/***
+ Problem Name : 공
+ Problem Number : 1547
+ Problem Link : https://www.acmicpc.net/problem/1547
+ ***/
 
 public class _1547 {
     public static void main(String[] args) throws IOException {
