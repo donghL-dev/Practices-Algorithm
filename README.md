@@ -1,4 +1,4 @@
-Practices-Algorithm 🎯
+Practices-Algorithm🎯
 ===
 * 알고리즘과 자료구조를 이용해서 해결한 문제들을 기록해두기 위한 저장소입니다.
 
