@@ -3,6 +3,7 @@ package baekjoon
 import java.io.*
 import java.util.*
 
+// https://www.acmicpc.net/problem/5430
 fun main(args: Array<String>) {
     val input = BufferedReader(InputStreamReader(System.`in`))
     val output = BufferedWriter(OutputStreamWriter(System.out))
